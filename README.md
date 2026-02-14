@@ -61,7 +61,7 @@ Every coffee helps me spend more time building useful tools for the community.
 
 ## 📫 Connect With Me
 
-- GitHub: [@jnlte-dev](#)
+- GitHub: [@jnlte-dev](@jnlte-dev)
 - Website: [JN Networks](https://jn-networks.net/)
 
 ---
