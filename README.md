@@ -65,5 +65,4 @@ Every coffee helps me spend more time building useful tools for the community.
 - Website: [JN Networks](https://jn-networks.net/)
 
 ---
-
-⭐ Feel free to explore my repositories — feedback and contributions are always welcome!
+<img width="960" height="330" alt="image" src="https://github.com/user-attachments/assets/a5a96327-9846-4d8e-942a-dfbbd61bcafc" />
