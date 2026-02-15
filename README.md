@@ -19,17 +19,15 @@ I develop applications for clients as well as for individuals who want full cont
 ## 🛠️ Tech Stack
 
 **Languages & Frameworks**
-- Node.js / TypeScript
 - Python
 - PHP
 - REST APIs
-- SQL / NoSQL
+- SQL
 
 **Infrastructure & DevOps**
 - Linux
 - Docker & Docker Compose
-- Nginx
-- CI/CD Pipelines
+- Nginx & Apache
 - Git & GitHub
 
 **Other Interests**
